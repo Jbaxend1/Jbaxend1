@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about music, vehicles, code or anything in between! 
 - 📫 How to reach me: jmbaxendell@gmail.com
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=li2ardking&count={4})
+
 -->
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=li2ardking&count={4})
+
